@@ -6,11 +6,9 @@ This repository contains a single Jupyter notebook performing data cleaning, exp
 
 ```
 linkedin-jobs-india-analysis/
-├── data/
-│   └── linkedin_jobs_cleaned.csv        # your cleaned dataset
-├── notebooks/
-│   └── LinkedIn_Jobs_India_Analysis.ipynb
-├── requirements.txt                     # pip dependencies to run the notebook
+├── linkedin_jobs_cleaned.csv        # your cleaned dataset
+├── LinkedIn_Jobs_India_Analysis.ipynb   # pip dependencies to run the notebook
+├── requirements.txt                     
 ├── .gitignore
 └── README.md
 ```
@@ -35,14 +33,20 @@ linkedin-jobs-india-analysis/
    ```bash
    jupyter notebook notebooks/LinkedIn_Jobs_India_Analysis.ipynb
    ```
+4. **Analysis Report**
+   ![image](https://github.com/user-attachments/assets/b8cf6515-2cdd-48c7-adc1-e82f33c1b149)
+   ![image](https://github.com/user-attachments/assets/6c281b0c-6a01-406c-a36e-24527f520b14)
+   ![image](https://github.com/user-attachments/assets/8d6acbc1-bd39-499e-ba4f-83dbaf236f87)
+   ![image](https://github.com/user-attachments/assets/44725638-d23b-4e3b-bf00-d5150a422bed)
+
+
 
 ## 📊 What’s Inside
 
 * **Data Loading & Cleaning**
 * **Exploratory Data Analysis**
 * **Feature Engineering**
-* **Modeling & Evaluation**
 
-*All steps are contained in the single notebook.*
+
 
 
